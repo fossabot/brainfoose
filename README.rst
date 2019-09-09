@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fawesmubarak%2Fbrainfoose.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fawesmubarak%2Fbrainfoose?ref=badge_shield)
+
 ==========
 Brainfoose
 ==========
@@ -116,3 +118,7 @@ Further reading
 - https://learnxinyminutes.com/docs/brainfuck/
 - https://en.wikipedia.org/wiki/Brainfuck
 - http://blog.klipse.tech/brainfuck/2016/12/17/brainfuck.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fawesmubarak%2Fbrainfoose.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fawesmubarak%2Fbrainfoose?ref=badge_large)
